@@ -1,19 +1,3 @@
-<img align="left" height="150" src="https://github.com/marlonberaldo.png"  />
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/marlon-beraldo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marlonberaldo.marlonberaldo&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋, I Marlon</h1>
